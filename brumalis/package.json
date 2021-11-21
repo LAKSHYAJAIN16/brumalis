@@ -1,0 +1,22 @@
+{
+  "name": "brumalis",
+  "version": "1.0.0",
+  "description": "AI / ML / IDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "keywords": [
+    "brumalis",
+    "countries",
+    "genders",
+    "ai",
+    "detection",
+    "gender-detection",
+    "country-detection",
+    "language-detection",
+    "lakshya-jain"
+  ],
+  "author": "Lakshya Jain",
+  "license": "MIT"
+}
